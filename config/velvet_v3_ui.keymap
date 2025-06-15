@@ -97,7 +97,7 @@
 
         User0 {
             bindings = <
-&trans  &kp B   &kp C   &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
+&kp A   &kp B   &kp C   &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
                 &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
